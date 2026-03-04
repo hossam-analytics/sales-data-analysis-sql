@@ -209,3 +209,4 @@ from cte_customer_segments
 
 
 
+
